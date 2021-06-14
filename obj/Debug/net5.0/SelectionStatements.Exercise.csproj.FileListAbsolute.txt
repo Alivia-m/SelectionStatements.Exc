@@ -1,0 +1,16 @@
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\bin\Debug\net5.0\SelectionStatements.Exercise.exe
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\bin\Debug\net5.0\SelectionStatements.Exercise.deps.json
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\bin\Debug\net5.0\SelectionStatements.Exercise.runtimeconfig.json
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\bin\Debug\net5.0\SelectionStatements.Exercise.runtimeconfig.dev.json
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\bin\Debug\net5.0\SelectionStatements.Exercise.dll
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\bin\Debug\net5.0\ref\SelectionStatements.Exercise.dll
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\bin\Debug\net5.0\SelectionStatements.Exercise.pdb
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\SelectionStatements.Exercise.csproj.AssemblyReference.cache
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\SelectionStatements.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\SelectionStatements.Exercise.AssemblyInfoInputs.cache
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\SelectionStatements.Exercise.AssemblyInfo.cs
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\SelectionStatements.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\SelectionStatements.Exercise.dll
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\ref\SelectionStatements.Exercise.dll
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\SelectionStatements.Exercise.pdb
+C:\Users\Liv\source\repos\SelectionStatements.Exercise\obj\Debug\net5.0\SelectionStatements.Exercise.genruntimeconfig.cache
